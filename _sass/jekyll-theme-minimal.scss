@@ -55,7 +55,7 @@ a:hover small {
   color:#777;
 }
 
-.navmenu {
+li::before .navmenu {
   content: "☆";
   color: #ff0092;
 }
